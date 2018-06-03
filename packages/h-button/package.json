@@ -1,7 +1,7 @@
 {
-  "name": "hui-button",
-  "version": "0.0.1",
-  "description": "hui-button",
+  "name": "h-button",
+  "version": "0.0.2",
+  "description": "h-button",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
