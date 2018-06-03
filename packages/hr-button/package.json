@@ -2,7 +2,7 @@
   "name": "hr-button",
   "version": "0.0.6",
   "description": "hr-button",
-  "main": "index.js",
+  "main": "../h-button/src/index.ts",
   "directories": {
     "test": "test"
   },
