@@ -1,8 +1,8 @@
 {
   "name": "hr-button",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "hr-button",
-  "main": "../h-button/src/index.ts",
+  "main": "../hr-button/src/index.js",
   "directories": {
     "test": "test"
   },
