@@ -21,7 +21,7 @@ declare class DefaultProps implements IPropsInterface {
     onClick?: (event?: React.MouseEvent<any>) => void
 }
 
-export default class HButton extends React.Component<IPropsInterface, any> {
+export default class HRButton extends React.Component<IPropsInterface, any> {
     static defaultProps: any;
     constructor(props: IPropsInterface);
     componentDidMount(): void;

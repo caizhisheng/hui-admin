@@ -1,3 +1,3 @@
-import HButton from './button'
+import HRButton from './button'
 
-export default HButton;
+export default HRButton;
