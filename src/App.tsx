@@ -1,8 +1,7 @@
 import * as React from 'react';
 import './App.css';
 import logo from './logo.svg';
-// import HButton from '../packages/h-button/src/button';
-
+// import HButton from 'h-button';
 class App extends React.Component {
   public render() {
     return (
@@ -14,7 +13,7 @@ class App extends React.Component {
         <p className="App-intro">
           To get started, edit <code>src/App.tsx</code> and save to reload.
         </p>
-        {/* <HButton /> */}
+        {/* <HButton size="small" text="保存" /> */}
       </div>
     );
   }

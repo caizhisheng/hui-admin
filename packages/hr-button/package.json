@@ -1,0 +1,25 @@
+{
+  "name": "hr-button",
+  "version": "0.0.1",
+  "description": "hr-button",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/caizhisheng/react-antd-admin.git"
+  },
+  "keywords": [
+    "hr-button"
+  ],
+  "author": "mike",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caizhisheng/react-antd-admin/issues"
+  },
+  "homepage": "https://github.com/caizhisheng/react-antd-admin#readme"
+}

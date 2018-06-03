@@ -24,10 +24,10 @@ export default class HButton extends React.Component<module.IPropsInterface, any
         if (this.props.disabled || this.props.loading) {
             return;
         };
-        // this.props.onClick(event);
+        this.props.onClick(event);
     }
     render() {
-        others(HButton.defaultProps, this.props); // props透传
+        others(HButton.defaultProps, this.props); // props透传111
         console.log(this.props);
         let addon: any = null;
         if (this.props.addonLeft || this.props.addonRight) {
