@@ -1,5 +1,5 @@
 {
-  "name": "hui-admin22",
+  "name": "hui-admin",
   "version": "1.0.8",
   "main": "./hr.js",
   "dependencies": {
