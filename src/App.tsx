@@ -1,8 +1,7 @@
 import * as React from 'react';
 import './App.css';
 import logo from './logo.svg';
-// import HRButton from 'hr-button';
-// import HRButton from '';
+// import HButton from 'hr-button';
 // antd组件库样式
 import '../node_modules/antd/dist/antd.min.css'
 

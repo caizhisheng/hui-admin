@@ -1,8 +1,8 @@
 {
-  "name": "hr-button",
+  "name": "h-button",
   "version": "0.0.8",
-  "description": "hr-button",
-  "main": "../hr-button/src/index.js",
+  "description": "h-button",
+  "main": "../h-button/src/index.js",
   "directories": {
     "test": "test"
   },
@@ -14,7 +14,7 @@
     "url": "git+ssh://git@github.com/caizhisheng/react-antd-admin.git"
   },
   "keywords": [
-    "hr-button"
+    "h-button"
   ],
   "author": "mike",
   "license": "ISC",
