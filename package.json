@@ -1,6 +1,6 @@
 {
   "name": "hui-admin",
-  "version": "3.0.1",
+  "version": "3.0.6",
   "main": "./index.js",
   "author": "mike-ccc",
   "dependencies": {
@@ -124,7 +124,7 @@
     "extends": "react-app"
   },
   "files": [
-    "dist",
-    "packages"
+    "index.js",
+    "index.d.ts"
   ]
 }
