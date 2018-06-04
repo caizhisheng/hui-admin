@@ -1,5 +1,4 @@
-import HButton from './packages/hr-button/src/button'
-
+import HButton from './packages/h-button/src/button';
 export {
   HButton
 };
