@@ -1,7 +1,7 @@
 import * as React from 'react';
 import './App.css';
 import logo from './logo.svg';
-import HButton from 'h-button';
+import HButton from 'hui-admin';
 // antd组件库样式
 import '../node_modules/antd/dist/antd.min.css'
 
