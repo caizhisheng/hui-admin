@@ -1,7 +1,7 @@
 {
-  "name": "hui-admin33",
-  "version": "1.0.9",
-  "main": "./hr.js",
+  "name": "hui-admin",
+  "version": "1.0.10",
+  "main": "./index.js",
   "dependencies": {
     "@types/antd": "^1.0.0",
     "@types/classnames": "^2.2.4",
@@ -21,7 +21,6 @@
     "fit-transmit-transparently": "^3.1.66",
     "fork-ts-checker-webpack-plugin": "^0.2.8",
     "fs-extra": "3.0.1",
-    "hr-button": "0.0.8",
     "html-webpack-plugin": "2.29.0",
     "hui-admin": "^1.0.9",
     "jest": "22.4.2",
