@@ -1,7 +1,8 @@
 {
   "name": "hui-admin",
-  "version": "2.0.1",
+  "version": "3.0.0",
   "main": "./index.js",
+  "author": "mike-ccc",
   "dependencies": {
     "@types/antd": "^1.0.0",
     "@types/classnames": "^2.2.4",
@@ -124,10 +125,6 @@
   },
   "files": [
     "dist",
-    "packages",
-    "index.js",
-    "index.d.ts",
-    "lerna.json",
-    "README.md"
+    "packages"
   ]
 }
