@@ -64,6 +64,7 @@ module.exports = {
       // We ship a few polyfills by default:
       require.resolve('./polyfills'),
       require.resolve('react-dev-utils/webpackHotDevClient'),
+      require.resolve('../index.js'),
       paths.appIndexJs
     ]
     // h5:[

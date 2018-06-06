@@ -2,11 +2,12 @@ import * as React from 'react';
 import './App.css';
 import logo from './logo.svg';
 // import HButton from 'hui-admin';
+// import HButton from 'h-button';
 // antd组件库样式
 import '../node_modules/antd/dist/antd.min.css'
 
 class App extends React.Component {
-  public render() {
+  render() {
     return (
       <div className="App">
         <header className="App-header">
@@ -24,3 +25,4 @@ class App extends React.Component {
 }
 
 export default App;
+ 
