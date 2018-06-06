@@ -1,6 +1,6 @@
 {
   "name": "h-button",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "h-button",
   "main": "../h-button/src/index.js",
   "directories": {
