@@ -1,5 +1,14 @@
 import HButton from './packages/h-button/src/button';
-export { HButton };
+import HButtonGroup from './packages/h-button/src/button-group';
 
-var Hui = { HButton };
+var Hui = {
+    HButton,
+    HButtonGroup
+}
+
+export {
+    HButton,
+    HButtonGroup
+}
+
 export default Hui;

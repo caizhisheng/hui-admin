@@ -1,6 +1,6 @@
 {
   "name": "hui-admin",
-  "version": "5.0.3",
+  "version": "5.0.5",
   "main": "./index.js",
   "author": "mike-ccc",
   "dependencies": {
