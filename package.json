@@ -1,8 +1,8 @@
 {
-  "name": "hui-admin222",
-  "version": "5.0.6",
+  "name": "hui-admin",
+  "version": "6.0.1",
   "main": "./index.js",
-  "author": "mike-ccc",
+  "author": "mike",
   "dependencies": {
     "@types/antd": "^1.0.0",
     "@types/classnames": "^2.2.4",
@@ -126,9 +126,8 @@
     "extends": "react-app"
   },
   "files": [
+    "packages",
     "index.js",
-    "index.d.ts",
-    "dist",
-    "packages"
+    "index.d.ts"
   ]
 }
