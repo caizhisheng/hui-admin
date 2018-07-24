@@ -12,7 +12,7 @@ import { Button } from 'antd';
 import { others } from 'fit-transmit-transparently';
 
 
-export class HButton extends React.Component<module.IPropsInterface, any> {
+export default class HButton extends React.Component<module.IPropsInterface, any> {
     static defaultProps = new module.DefaultProps();
     constructor(props: module.IPropsInterface) {
         super(props);

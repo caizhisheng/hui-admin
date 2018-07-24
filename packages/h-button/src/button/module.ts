@@ -14,7 +14,7 @@ export interface IPropsInterface extends BaseButtonProps {
     onClick?: (event?: React.MouseEvent<any>) => void,
 }
 
-export class DefaultProps implements IPropsInterface {
+export default class DefaultProps implements IPropsInterface {
     type = "primary" as ButtonType;
     htmlType = "button";
     size = "default" as ButtonSize;
