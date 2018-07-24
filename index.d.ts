@@ -1,5 +1,5 @@
 import * as React from "react";
-export default class HButton extends React.Component<any, any> {
+export class HButton extends React.Component<any, any> {
     static defaultProps: any;
     constructor(props: any);
     componentDidMount(): void;

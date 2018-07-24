@@ -1,8 +1,9 @@
+import * as React from "react";
 import { IPropsInterface } from "./src/button/module";
 
 // import { ButtonType, ButtonSize } from "antd/lib/button";
 // import { BaseButtonProps } from "antd/lib/button/button";
-// import * as React from "react";
+
 
 // declare interface IPropsInterface extends BaseButtonProps {
 //     href?: string,
@@ -23,7 +24,7 @@ import { IPropsInterface } from "./src/button/module";
 //     onClick?: (event?: React.MouseEvent<any>) => void
 // }
 
-export class HButton {
+export class HButton extends React.Component<IPropsInterface, any> {
     constructor(props: IPropsInterface);
     componentDidMount(): void;
     handleClick: (e: React.MouseEvent<HTMLAnchorElement | HTMLButtonElement>) => void;
