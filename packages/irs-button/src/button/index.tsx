@@ -12,7 +12,7 @@ import { Button } from 'antd';
 import { others } from 'fit-transmit-transparently';
 
 
-export default class HButton extends React.Component<module.IPropsInterface, any> {
+export default class IrsButton extends React.Component<module.IPropsInterface, any> {
     static defaultProps = new module.DefaultProps();
     constructor(props: module.IPropsInterface) {
         super(props);
@@ -27,7 +27,7 @@ export default class HButton extends React.Component<module.IPropsInterface, any
         this.props.onClick(event);
     }
     render() {
-        others(HButton.defaultProps, this.props); // props透传111
+        others(IrsButton.defaultProps, this.props); 
         let addon: any = null;
         if (this.props.addonLeft || this.props.addonRight) {
             const addonClass = classNames({

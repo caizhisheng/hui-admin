@@ -1,12 +1,4 @@
 
-import { HButton } from './packages/h-button/index';
+import IrsButton from './packages/h-button/index';
 
-var Hui = {
-    HButton
-}
-
-export {
-    HButton
-}
-
-export default Hui;
+export { IrsButton };

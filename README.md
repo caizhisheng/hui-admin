@@ -1,1 +1,1 @@
-# hui-admin
+# irs-ui
