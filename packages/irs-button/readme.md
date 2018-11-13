@@ -2,7 +2,7 @@
 
 ### 1. 使用方法
 <code>
-   npm install h-button
+   npm install irs-button
 </code>
 
 ### 2. API说明

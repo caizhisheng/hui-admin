@@ -18,9 +18,6 @@ export  class DefaultProps implements IPropsInterface {
     type = "primary" as ButtonType;
     htmlType = "button";
     size = "default" as ButtonSize;
-    // text = "";
     disabled = false;
-    //  addonLeft: any = null;
-    //  addonRight: any = null;
     onClick = () => { }
 }

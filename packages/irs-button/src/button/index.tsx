@@ -44,7 +44,7 @@ export default class IrsButton extends React.Component<module.IPropsInterface, a
             'customize': true // 自定义style
         })
         return (
-                <Button {...this.props}
+                <Button 
                     onClick={this.handleClick}
                     className={btnClass}>
                     {this.props.text}
