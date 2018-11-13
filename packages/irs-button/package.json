@@ -1,6 +1,6 @@
 {
   "name": "irs-button",
-  "version": "0.0.2",
+  "version": "4.0.1",
   "description": "irs-button",
   "main": "./index.js",
   "directories": {
